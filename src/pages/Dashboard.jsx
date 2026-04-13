@@ -751,7 +751,7 @@ const Dashboard = () => {
           ref={menuRef}
         >
           <div className="secMenuHeader">
-            <img src="/images/unical_sf.png" alt="Eduka" className="secMenuLogo" />
+            <img src="/images/unicap_sf.png" alt="Eduka" className="secMenuLogo" />
             <p className="secMenuSubtitle">Dashboard</p>
           </div>
 

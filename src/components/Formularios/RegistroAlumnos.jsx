@@ -276,7 +276,7 @@ const RegistroAlumnos = () => {
           />
 
           <div className="registro_landing_intro">
-            <span className="registro_landing_badge">UNICAL · Inscripción</span>
+            <span className="registro_landing_badge">UNICAP · Inscripción</span>
 
             <h1 className="registro_landing_title">{cursoActivo?.nombre}</h1>
 

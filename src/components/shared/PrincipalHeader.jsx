@@ -293,7 +293,7 @@ const PrincipalHeader = () => {
         <nav className={`navbar ${showOnlyLogo ? "navbar--only-logo" : ""}`}>
           <Link to="/" className="logo_link">
             <img
-              src="/images/unical_sf.png"
+              src="/images/unicap_sf.png"
               alt="Logo Eduka"
               className="logo_navbar_ph"
             />
@@ -318,7 +318,7 @@ const PrincipalHeader = () => {
 
             <Link to="/" onClick={closeMenu} className="logo_link">
               <img
-                src="/images/unical_sf.png"
+                src="/images/unicap_sf.png"
                 alt="Logo Eduka"
                 className="logo_navbar_ph"
               />

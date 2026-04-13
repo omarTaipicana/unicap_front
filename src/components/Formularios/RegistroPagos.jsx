@@ -226,7 +226,7 @@ export const RegistroPagos = () => {
       />
 
       <div className="pagos_hero_intro">
-        <span className="pagos_hero_badge">UNICAL · Registro de pagos</span>
+        <span className="pagos_hero_badge">UNICAP · Registro de pagos</span>
 
         <h1 className="pagos_hero_title">
           {usuario ? "Completa tu registro de pago" : "Solicita tu certificado"}
@@ -248,7 +248,7 @@ export const RegistroPagos = () => {
             <span>Registro</span>
           </div>
           <div className="pagos_hero_stat">
-            <strong>UNICAL</strong>
+            <strong>UNICAP</strong>
             <span>Certificación</span>
           </div>
         </div>

@@ -116,7 +116,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/images/unical_sf.png");
+  background-image: url("/images/unicap_sf.png");
   background-repeat: no-repeat;
   background-position: center 30%;
   background-size: 28%;
@@ -529,7 +529,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/images/unical_sf.png");
+  background-image: url("/images/unicap_sf.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 55%;
