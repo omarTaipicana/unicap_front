@@ -57,7 +57,7 @@ const Cidteiafp = () => {
             <span className="ciccenic_label">UNICAP · Curso Internacional</span>
 
             <h1 className="ciccenic_main_title">
-              LENGUA DE SEÑAS
+              Curso Internacional de Defensa Técnica y Estructura del Informe, Aplicado la Función Policial.
             </h1>
 
             <p className="ciccenic_subtitle">
